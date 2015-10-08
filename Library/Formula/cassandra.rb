@@ -2,7 +2,8 @@ class Cassandra < Formula
   desc "Eventually consistent, distributed key-value store"
   homepage "https://cassandra.apache.org"
   url "https://www.apache.org/dyn/closer.cgi?path=/cassandra/2.2.2/apache-cassandra-2.2.2-bin.tar.gz"
-  sha256 "06cad23535333b4dd72596bc9bd0606afd1a1ea74f2a91df571e3e00c51c473f"
+  sha1 "1d7e3777d09974386270347bb2d186fa5f89f0b0"
+  sha256 "72faa82f1dadd40984e732918d069a55b79adf5e4ccd23d2651cbd20b0a34e80"
 
   bottle do
     sha256 "6da1ce379e260b150f85b6439036e3c3875d488ef864c78a2bd8743e3718601d" => :el_capitan
